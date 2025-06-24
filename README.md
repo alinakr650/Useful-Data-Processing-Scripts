@@ -1,6 +1,6 @@
 # Useful-Data-Processing-Scripts
 
-A number of scripts I've written for my use-cases over the years.
+A number of scripts I've written for AI/ML data processing, training, etc.
 
 1. docx-merger.py - Jams loads of .docx files in one with pictures, graphs, etc. for further processing.
    How to use: ```python merge_docs.py "/Path/to/your/directory" combined_output.docx```
